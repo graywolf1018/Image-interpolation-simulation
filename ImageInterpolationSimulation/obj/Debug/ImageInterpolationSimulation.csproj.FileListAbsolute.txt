@@ -1,0 +1,9 @@
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\bin\Debug\ImageInterpolationSimulation.exe.config
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\obj\Debug\ImageInterpolationSimulation.csprojResolveAssemblyReference.cache
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\obj\Debug\ImageInterpolationSimulation.Form1.resources
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\obj\Debug\ImageInterpolationSimulation.Properties.Resources.resources
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\obj\Debug\ImageInterpolationSimulation.csproj.GenerateResource.Cache
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\bin\Debug\ImageInterpolationSimulation.exe
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\bin\Debug\ImageInterpolationSimulation.pdb
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\obj\Debug\ImageInterpolationSimulation.exe
+D:\My Box Files\【研究】\VisualProject\ImageInterpolationSimulation\ImageInterpolationSimulation\obj\Debug\ImageInterpolationSimulation.pdb
